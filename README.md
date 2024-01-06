@@ -7,10 +7,11 @@ I'm working on a project with the Chinook Database, which has info about a music
 # Setting up the database 
 Let's get the database ready with these steps:
 
-Open DB Browser to SQLite.
-Click "Open Database."
-Locate the Chinook.db file, typically in your downloads.
-Click "Execute SQL."
+1) Open DB Browser to SQLite.
+2) Click "Open Database."
+3) Locate the Chinook.db file, typically in your downloads.
+4) "Execute SQL."
+   
 Now you're set to start querying your data!
 
 
