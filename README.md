@@ -15,3 +15,10 @@ Let's get the database ready with these steps:
 Now you're set to start querying your data!
 
 
+# Queries to start with 
+
+You've got the database ready! To start, take a look at all the Invoice table data with:
+
+SELECT * FROM Invoice;
+
+SELECT * FROM Employee;
